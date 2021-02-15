@@ -1,0 +1,9 @@
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\bin\Debug\netstandard2.0\MDEntities.deps.json
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\bin\Debug\netstandard2.0\MDEntities.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\bin\Debug\netstandard2.0\MDEntities.pdb
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\obj\Debug\netstandard2.0\MDEntities.csprojAssemblyReference.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\obj\Debug\netstandard2.0\MDEntities.AssemblyInfoInputs.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\obj\Debug\netstandard2.0\MDEntities.AssemblyInfo.cs
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\obj\Debug\netstandard2.0\MDEntities.csproj.CoreCompileInputs.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\obj\Debug\netstandard2.0\MDEntities.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDEntities\obj\Debug\netstandard2.0\MDEntities.pdb

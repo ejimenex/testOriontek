@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MDEntities\MDEntities.csproj" />
+    <ProjectReference Include="..\MDRepository\MDRepository.csproj" />
+  </ItemGroup>
+
+</Project>

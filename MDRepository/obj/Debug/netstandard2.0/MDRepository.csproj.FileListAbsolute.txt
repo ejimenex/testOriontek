@@ -1,0 +1,12 @@
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\bin\Debug\netstandard2.0\MDRepository.deps.json
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\bin\Debug\netstandard2.0\MDRepository.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\bin\Debug\netstandard2.0\MDRepository.pdb
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\bin\Debug\netstandard2.0\MDEntities.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\bin\Debug\netstandard2.0\MDEntities.pdb
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\obj\Debug\netstandard2.0\MDRepository.csprojAssemblyReference.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\obj\Debug\netstandard2.0\MDRepository.AssemblyInfoInputs.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\obj\Debug\netstandard2.0\MDRepository.AssemblyInfo.cs
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\obj\Debug\netstandard2.0\MDRepository.csproj.CoreCompileInputs.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\obj\Debug\netstandard2.0\MDRepository.csproj.CopyComplete
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\obj\Debug\netstandard2.0\MDRepository.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDRepository\obj\Debug\netstandard2.0\MDRepository.pdb

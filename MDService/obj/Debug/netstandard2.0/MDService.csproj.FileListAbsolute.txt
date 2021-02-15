@@ -1,0 +1,14 @@
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\bin\Debug\netstandard2.0\MDService.deps.json
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\bin\Debug\netstandard2.0\MDService.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\bin\Debug\netstandard2.0\MDService.pdb
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\bin\Debug\netstandard2.0\MDEntities.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\bin\Debug\netstandard2.0\MDRepository.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\bin\Debug\netstandard2.0\MDEntities.pdb
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\bin\Debug\netstandard2.0\MDRepository.pdb
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\obj\Debug\netstandard2.0\MDService.csprojAssemblyReference.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\obj\Debug\netstandard2.0\MDService.AssemblyInfoInputs.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\obj\Debug\netstandard2.0\MDService.AssemblyInfo.cs
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\obj\Debug\netstandard2.0\MDService.csproj.CoreCompileInputs.cache
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\obj\Debug\netstandard2.0\MDService.csproj.CopyComplete
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\obj\Debug\netstandard2.0\MDService.dll
+C:\Users\ejimenez\source\repos\PruebaMaestroDetalle\MDService\obj\Debug\netstandard2.0\MDService.pdb
