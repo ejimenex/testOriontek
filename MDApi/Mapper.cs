@@ -16,8 +16,11 @@ namespace MDApi
             {
 
                 cfg.CreateMap<Product, ProductDto>().ReverseMap();
+                cfg.CreateMap<Invoice, InvoiceDto>().ReverseMap();
+                cfg.CreateMap<InvoiceDetail, InvoiceDetailDto>()
+                .ForMember(x => x.ProductName, opt => opt.MapFrom(x => x.Product.Name)).ReverseMap();
                 //
-          
+
             });
             IMapper mapper = config.CreateMapper();
             return mapper;
